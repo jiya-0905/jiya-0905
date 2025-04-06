@@ -1,4 +1,4 @@
--- 🔥 Hi, I’m @jiya-0905  
+# 🔥 Hi, I’m @jiya-0905  
 - 👀 I’m interested in smart tech that solves real problems  
 - 🌱 I’m currently learning any tech stack that fits my project and how to make my side projects actually ship 😄  
 - 💕 I’m looking to collaborate on anything quirky, impactful, or just plain fun 
